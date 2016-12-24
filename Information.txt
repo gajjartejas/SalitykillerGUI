@@ -1,0 +1,15 @@
+Developing Environment and Software Used:
+• Autoit 3.3.8.1+ (www.autoitscript.com)
+• SciTE4AutoIt3 (www.autoitscript.com)
+• Koda Form Desiner (http://koda.darkhost.ru/)
+
+Licence:
+• GNU GPL v3.0
+
+Features:
+  1 Simple and easy to use GUI.
+
+Change Log:
+
+January 06th, 2013 v1.0.0.0
+• Intial Release
